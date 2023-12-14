@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Labrodor64
+- 👋 Hi, I’m Ben
 - 👀 I’m interested in coding in C++, playing collectable card games and reading fanstasy novels.
 - 🌱 I’m currently learning a variety of things at my engineering school
 - 💞️ I’m looking to collaborate on creating video games using programming languages 
